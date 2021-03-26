@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ex03CHap04</string>
+    <string-array name="technology" >
+        <item>Android</item>
+        <item>Java</item>
+        <item>C/C++</item>
+        <item>Python</item>
+        <item>Android</item>
+        <item>.NET</item>
+        <item>JavaScript</item>
+    </string-array>
+</resources>
